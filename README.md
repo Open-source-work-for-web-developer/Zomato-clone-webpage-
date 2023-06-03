@@ -16,3 +16,14 @@
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/abhyuday911dev" target="_blank">Author</a>
 </p>
+
+## Additional Instructions:
+
+- Krna kya hai subse phele ak clone copy banalo apne laptop me then usme kaam krna hai okkk.....or agar kisi koi v dikt hota hai to kya krna hai apne group me text krna hai ......or rehi baat doubt solve ka to meet rekhlege okkkkkk......
+
+## Some steps :
+    {1} File ko clone kro.
+    {2} file me edit kro or addition kro kuch
+    {3} jab v file me addition ya edit krne baitho to subse phele pull krlo usse kya hoga koi v kuch change krega wo aapke pass 
+        aa jaaega.
+    {4} update coming soon ...................
