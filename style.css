@@ -1,0 +1,50 @@
+/* @font-face {
+    font-family: gilroy;
+    src: url(./public/fonts/Gilroy-Regular.ttf)format("truetype");
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+
+html,
+body {
+    min-height: 100vh;
+    width: 100%;
+    color: #999;
+    background-color: rgb(15, 18, 21);
+    scroll-behavior: smooth;
+}
+
+#main{
+    min-height: 100vh;
+    width: 100%;
+}
+#box1{
+    min-height: 100vh;
+    width: 100%;
+    background-color: aqua;
+}
+#box2{
+    min-height: 100vh;
+    width: 100%;
+    background-color: rgb(155, 155, 155);
+}
+#box3{
+    min-height: 100vh;
+    width: 100%;
+    background-color: rgb(73, 33, 33);
+}
+#box4{
+    min-height: 100vh;
+    width: 100%;
+    background-color: rgb(174, 107, 107);
+}
+#box5{
+    min-height: 100vh;
+    width: 100%;
+    background-color: rgb(255, 223, 223);
+}
