@@ -14,17 +14,21 @@ html,
 body {
     min-height: 100vh;
     width: 100%;
-    color: #999;
     background-color: rgb(15, 18, 21);
     scroll-behavior: smooth;
+}
+@font-face {
+    font-family: "font1";
+    src: url(font/b27921d5a95f787012c8e9dfbb86c2751597997132.woff2);
 }
 
 #main{
     min-height: 100vh;
     width: 100%;
 }
+/* ------------------------Page 1 starting-------------------------------- */
 #box1{
-    min-height:70vh;
+    min-height:80vh;
     width: 100%;
     background-image: url(./images/frontimg.png);
     background-position: center;
@@ -68,6 +72,34 @@ nav li a {
     color: white;
     text-decoration: none;
 }
+
+.Page1-content{
+    width: 100vw;
+    height: calc(70vh - 70px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+
+}
+
+.Page1-content img{
+    scale: 0.28;
+      margin-bottom: 4.2vmax;
+}
+.Page1-content h3{
+   font-size: 2.5vmax;
+   font-weight: 400;
+   text-align: center;
+   letter-spacing: 0.1vmin;
+   margin-top: -7vmax;
+   line-height: 2.8vmax;
+
+}
+
+/* ------------------------Page 1 Ending-------------------------------- */
+
 
 
 
